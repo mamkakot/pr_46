@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\pr_46\pr_46\bin\Debug\netcoreapp3.1\pr_46.exe
+C:\Users\Dmitry\source\repos\pr_46\pr_46\bin\Debug\netcoreapp3.1\pr_46.deps.json
+C:\Users\Dmitry\source\repos\pr_46\pr_46\bin\Debug\netcoreapp3.1\pr_46.runtimeconfig.json
+C:\Users\Dmitry\source\repos\pr_46\pr_46\bin\Debug\netcoreapp3.1\pr_46.runtimeconfig.dev.json
+C:\Users\Dmitry\source\repos\pr_46\pr_46\bin\Debug\netcoreapp3.1\pr_46.dll
+C:\Users\Dmitry\source\repos\pr_46\pr_46\bin\Debug\netcoreapp3.1\pr_46.pdb
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.dll
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.pdb
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.Form1.resources
+C:\Users\Dmitry\source\repos\pr_46\pr_46\obj\Debug\netcoreapp3.1\pr_46.csproj.GenerateResource.cache
